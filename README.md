@@ -127,8 +127,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/omeruncu/CRMAnalytics](https://github.com/omeruncu/CRMAnalytics)
-Linkedin : [https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/](https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/)
+* Project Link: [https://github.com/omeruncu/CRMAnalytics](https://github.com/omeruncu/CRMAnalytics)
+* Linkedin : [https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/](https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/)
 
 
 
