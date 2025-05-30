@@ -82,15 +82,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* 
-* 
-* 
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -100,11 +91,10 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
   
 
 ### Installation
-
+<!--
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
@@ -118,12 +108,11 @@ This is an example of how to list things you need to use the software and how to
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
-
+-->
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/omeruncu/CRMAnalytics/issues) for a list of proposed features (and known issues).
-
 
 
 <!-- CONTRIBUTING -->
@@ -150,6 +139,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Project Link: [https://github.com/omeruncu/CRMAnalytics](https://github.com/omeruncu/CRMAnalytics)
+Linkedin : [https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/](https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/)
 
 
 
@@ -184,5 +174,5 @@ Project Link: [https://github.com/omeruncu/CRMAnalytics](https://github.com/omer
 [license-shield]: https://img.shields.io/github/license/oomeruncu/CRMAnalytics.svg?style=for-the-badge
 [license-url]: https://github.com/omeruncu/CRMAnalytics/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: [https://linkedin.com/in/othneildrew](https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/)
+[linkedin-url]: https://www.linkedin.com/in/%C3%B6mer-%C3%BC-74197b319/
 [product-screenshot]: images/screenshot.png
