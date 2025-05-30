@@ -39,16 +39,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
+This module covers the following topics:
+- Introduction to CRM Analytics
+- RFM Analysis
+- Customer Lifetime Value (CLTV)
+- CLTV Estimation
 
 <!-- CONTRIBUTING -->
 ## Contributing
