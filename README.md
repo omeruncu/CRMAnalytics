@@ -45,6 +45,13 @@ This module covers the following topics:
 - Customer Lifetime Value (CLTV)
 - CLTV Estimation
 
+<!-- STUDY CASES -->
+## Study Cases
+### Case 1 
+FLO, an online shoe store, wants to divide its customers into segments and determine marketing strategies according to these segments. To this end, customer behaviors will be defined and groups will be created according to clusters in these behaviors.
+
+* Kaggle Link: [https://www.kaggle.com/code/omeruncu/customer-segmentation-with-rfm-analysis](https://www.kaggle.com/code/omeruncu/customer-segmentation-with-rfm-analysis)
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
