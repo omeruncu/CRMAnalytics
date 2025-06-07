@@ -52,6 +52,11 @@ FLO, an online shoe store, wants to divide its customers into segments and deter
 
 * Kaggle Link: [https://www.kaggle.com/code/omeruncu/customer-segmentation-with-rfm-analysis](https://www.kaggle.com/code/omeruncu/customer-segmentation-with-rfm-analysis)
 
+### Case 2
+Flo wants to determine a roadmap for its sales and marketing activities. In order for the company to make a medium-long term plan, it is necessary to estimate the potential value that existing customers will provide to the company in the future.
+
+* Kaggle Link: [https://www.kaggle.com/code/omeruncu/cltv-prediction](https://www.kaggle.com/code/omeruncu/cltv-prediction)
+
 <!-- CONTRIBUTING -->
 ## Contributing
 
