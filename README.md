@@ -41,9 +41,29 @@
 ## About The Project
 This module covers the following topics:
 - Introduction to CRM Analytics
+  - Key Performance Indicators
+  - Analysis of Cohort
 - RFM Analysis
+  - Customer Segmentation with RFM
+  - Calculating RFM Metrics
+  - Creating & Analysing RFM Segments
+  - Functionalization
 - Customer Lifetime Value (CLTV)
+  - Average Order Value
+  - Purchase Frequency
+  - Repeat Rate & Churn Rate
+  - Profit Margin
+  - Customer Value
+  - Customer Lifetime Value
+  - Creating Segments
+  - Functionalization
 - CLTV Estimation
+  - Customer Lifetime Value Prediction
+  - Expected Number of Transaction with BG/NBD
+  - Gamma Gamma Submodel
+  - CLTV Prediction with BG-NBD & Gamma Gamma
+  - Creating Customer Segment
+  - Functionalization
 
 <!-- STUDY CASES -->
 ## Study Cases
